@@ -34,10 +34,7 @@ cygnss-db
 =========
 
 
-    Add a short description here!
-
-
-A longer description of your project goes here...
+Codebase for the CYGNSS SM Data visualizer built as part of the Interdisciplinary Data Science Project at TU Wien
 
 
 .. _pyscaffold-notes:
